@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Tic Tac Toe</title>
+    <link rel="icon" type="image/png" href="img\favicon.png"> 
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <div class="msg-container hide">
+        <p id="msg">winner</p>
+  <button id="new-btn"> New Game</button>
+    </div>
+   
+<main>
+    <h1>Unleash the Fun, One Move at a Time!</h1>
+    <div class="container">
+        <div class="game">
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>  
+        </div>
+     
+    </div>
+<div class="result">
+    <p>Player X Wins: <span id="playerXWinCount">0</span></p>
+    <p>Player O Wins: <span id="playerOWinCount">0</span></p>
+  
+</div>
+<button id="reset">RESET</button>
+<button id="exit-btn">EXIT</button> 
+</main>
+<script src="app.js"></script>
+</body>
+</html>
