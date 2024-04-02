@@ -1,1 +1,6 @@
 # TIC-TAC-TOE-
+
+![image](https://github.com/Muskan-Thakur/TIC-TAC-TOE-/assets/106293646/d6946e24-9b11-4353-9f37-1f4265dd4715)
+
+![image](https://github.com/Muskan-Thakur/TIC-TAC-TOE-/assets/106293646/600071cd-ac1c-4441-8dfc-9ce748a472aa)
+
